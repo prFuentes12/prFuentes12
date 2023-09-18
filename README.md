@@ -17,7 +17,5 @@
 📚 Graduated in Computer Engineering at the University of Malaga(Spain)
 📝 I have a strong interest in Security and Artificial Intelligence
 🔭 Languages: SQL, C++, PYTHON, JAVA, JAVASCRIPT, ApiRest developing.. 
-
-
 </pre>
 <hr>
